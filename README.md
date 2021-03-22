@@ -1,4 +1,4 @@
-# Study-Projects
+# My Projects
 
 1) https://github.com/LenaMikhniuk/VolyaApp
 
